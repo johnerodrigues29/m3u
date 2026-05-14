@@ -1,0 +1,14 @@
+/tv.m3u
+  Cache-Control: public, max-age=0, must-revalidate
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, HEAD, OPTIONS
+  Access-Control-Allow-Headers: *
+
+/epg.xml.gz
+  Cache-Control: public, max-age=0, must-revalidate
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, HEAD, OPTIONS
+  Access-Control-Allow-Headers: *
+
+/*
+  X-Content-Type-Options: nosniff
