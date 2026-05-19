@@ -1,6 +1,6 @@
-#EXTM3U x-tvg-url="https://m3u-3jr.pages.dev/epg.xml.gz"
+#EXTM3U
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV BELÉM FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV BELÉM FHD FONTE 1
-http://govsp.org:80/live/tiaguinho2015/tiaguinho2015/21654.ts
+http://govsp.org:80/live/002258024/461802219/12939.ts
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV BELÉM HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV BELÉM FONTE 1
 http://89.187.173.194:80/live/beatriztriz/abc1123/122240.ts
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO TV BELÉM HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV BELÉM FONTE 2
@@ -324,7 +324,7 @@ https://tv03.zas.media:1936/tvprofissao/tvprofissao/playlist.m3u8
 #EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="BAND SPORTS³ - alternativo" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="CANAIS | ESPORTES PPV",Band Sports HD³ - alternativo
 http://89.187.173.194:80/live/beatriztriz/abc1123/10865.ts
 #EXTINF:-1 tvg-id="AMAZON PRIME 01" tvg-name="Amazon Prime 01" tvg-logo="https://i.imgur.com/0iq8t8j.png" group-title="CANAIS | ESPORTES PPV",Amazon Prime 01
-http://govsp.org:80/live/tiaguinho2015/tiaguinho2015/292698.ts
+http://govsp.org:80/live/002258024/461802219/292698.ts
 #EXTINF:-1 tvg-id="Cazé tv 1 HD³" tvg-name="Cazé tv 1 HD³" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcEW3aDL9cgg-lIhjByb9TyXD1ZutrcNyPyzoeMMjd2vTvt1c81HZdwz0LmJtbbgH-3VpeEkjYpsLHLPzwo7VZZNWjzg7LNQyTKVo0GBBNhoVREslCqKsYXy64tXD8ISaYwW8lh-9TWFs8i6TQFOGxP0O_yViHWu8U2h7Y55Q77DRhz4eQSGNYUWxVTQk/s1600/cazetv.jpg" group-title="CANAIS | ESPORTES PPV",Cazé tv 1 HD³
 http://425.sshgarem.com:80/Dbdjsk/leo334/1988294
 #EXTINF:-1 tvg-id="Cazé tv 2 HD³" tvg-name="Cazé tv 2 HD³" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcEW3aDL9cgg-lIhjByb9TyXD1ZutrcNyPyzoeMMjd2vTvt1c81HZdwz0LmJtbbgH-3VpeEkjYpsLHLPzwo7VZZNWjzg7LNQyTKVo0GBBNhoVREslCqKsYXy64tXD8ISaYwW8lh-9TWFs8i6TQFOGxP0O_yViHWu8U2h7Y55Q77DRhz4eQSGNYUWxVTQk/s1600/cazetv.jpg" group-title="CANAIS | ESPORTES PPV",Cazé tv 2 HD³
@@ -336,71 +336,71 @@ http://prys.xyz:80/live/Sandramaria/22999061026/1026255.ts
 #EXTINF:-1 tvg-id="NBX TV SPORTS" tvg-name="NBX TV SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7QeYOX6bZy1s0dflCpI0OJt1vQvGTpH4y5ObBKU8nVbmqIaobsxI0lY79RAcWNjnD8qHvTx2CM-9867Sf34jmsX-gJPXZ0WT6zgioDfoqyFvfNtlTx53ZVHqP3tZ3CUelP4sn2mB8DrXKhP8k2AsFEC8287K398uENOVuuXI1NtZ41lJGr1w0weTsv8k/s1600/nbxtvsport.png" group-title="CANAIS | ESPORTES PPV",NBX TV SPORTS
 https://stmv4.voxtvhd.com.br/nbxtvsports/nbxtvsports/playlist.m3u8
 #EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6B8xI6yIIbHsw_r3Ntr-US2ZCZ7s_a1PyDMTyXUrK9otZ_VAiLS5-cf6TIEc7ZZo-7az6AZV6YnBTHUeO6TdCC2T4RpTfClfzQkMdQ6wMoIE1j1Ojab8x6vZnjPJTKFF9x4-MQzjejnPYgaFX42C66j_FtM6whoOtQv_GDYmj5sd8JemsBrFHVuVWROs/s1600/sportv.webp" group-title="CANAIS | SPORTV",SPORTV
-http://89.187.173.194:80/live/beatriztriz/abc1123/34875.ts
+https://megaflix.cloudfronte.lat/zzzstream/sportv.m3u8
 #EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV ALT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6B8xI6yIIbHsw_r3Ntr-US2ZCZ7s_a1PyDMTyXUrK9otZ_VAiLS5-cf6TIEc7ZZo-7az6AZV6YnBTHUeO6TdCC2T4RpTfClfzQkMdQ6wMoIE1j1Ojab8x6vZnjPJTKFF9x4-MQzjejnPYgaFX42C66j_FtM6whoOtQv_GDYmj5sd8JemsBrFHVuVWROs/s1600/sportv.webp" group-title="CANAIS | SPORTV",SPORTV ALT
 http://46.151.196.223:14286
 #EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SPORTV 2 HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6B8xI6yIIbHsw_r3Ntr-US2ZCZ7s_a1PyDMTyXUrK9otZ_VAiLS5-cf6TIEc7ZZo-7az6AZV6YnBTHUeO6TdCC2T4RpTfClfzQkMdQ6wMoIE1j1Ojab8x6vZnjPJTKFF9x4-MQzjejnPYgaFX42C66j_FtM6whoOtQv_GDYmj5sd8JemsBrFHVuVWROs/s1600/sportv.webp" group-title="CANAIS | SPORTV",SPORTV 2 HD
 http://89.187.173.194:80/live/beatriztriz/abc1123/6480.ts
 #EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SPORTV 2 ALT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6B8xI6yIIbHsw_r3Ntr-US2ZCZ7s_a1PyDMTyXUrK9otZ_VAiLS5-cf6TIEc7ZZo-7az6AZV6YnBTHUeO6TdCC2T4RpTfClfzQkMdQ6wMoIE1j1Ojab8x6vZnjPJTKFF9x4-MQzjejnPYgaFX42C66j_FtM6whoOtQv_GDYmj5sd8JemsBrFHVuVWROs/s1600/sportv.webp" group-title="CANAIS | SPORTV",SPORTV 2 ALT
-http://prys.xyz:80/live/Sandramaria/22999061026/1026177.ts
+https://megaflix.cloudfronte.lat/zzzstream/sportv2.m3u8
 #EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3 HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6B8xI6yIIbHsw_r3Ntr-US2ZCZ7s_a1PyDMTyXUrK9otZ_VAiLS5-cf6TIEc7ZZo-7az6AZV6YnBTHUeO6TdCC2T4RpTfClfzQkMdQ6wMoIE1j1Ojab8x6vZnjPJTKFF9x4-MQzjejnPYgaFX42C66j_FtM6whoOtQv_GDYmj5sd8JemsBrFHVuVWROs/s1600/sportv.webp" group-title="CANAIS | SPORTV",SPORTV 3 HD
 http://89.187.173.194:80/live/beatriztriz/abc1123/6478.ts
 #EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3 ALT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6B8xI6yIIbHsw_r3Ntr-US2ZCZ7s_a1PyDMTyXUrK9otZ_VAiLS5-cf6TIEc7ZZo-7az6AZV6YnBTHUeO6TdCC2T4RpTfClfzQkMdQ6wMoIE1j1Ojab8x6vZnjPJTKFF9x4-MQzjejnPYgaFX42C66j_FtM6whoOtQv_GDYmj5sd8JemsBrFHVuVWROs/s1600/sportv.webp" group-title="CANAIS | SPORTV",SPORTV 3 ALT
-http://prys.xyz:80/live/Sandramaria/22999061026/1026181.ts
+https://megaflix.cloudfronte.lat/zzzstream/sportv3.m3u8
 #EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-name="PREMIERE CLUBES ALT" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",PREMIERE CLUBES ALT
 http://46.151.196.223:14588
 #EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD
-http://prys.xyz:80/live/Sandramaria/22999061026/1026519.ts
+https://megaflix.cloudfronte.lat/zzzstream/premiere.m3u8
 #EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-name="PREMIERE 2 ALT" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",PREMIERE 2 ALT
 http://79.127.243.211:14485
 #EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",PREMIERE 2 HD
-http://prys.xyz:80/live/Sandramaria/22999061026/1026523.ts
+https://megaflix.cloudfronte.lat/zzzstream/premiere2.m3u8
 #EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-name="PREMIERE 3 ALT" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",PREMIERE 3 ALT
 http://79.127.243.211:14489
 #EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",PREMIERE 3 HD
-http://prys.xyz:80/live/Sandramaria/22999061026/1026527.ts
+https://megaflix.cloudfronte.lat/zzzstream/premiere3.m3u8
 #EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-name="PREMIERE 4 ALT" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",PREMIERE 4 ALT
 http://79.127.243.211:14481
 #EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",PREMIERE 4 HD
-http://prys.xyz:80/live/Sandramaria/22999061026/1026530.ts
+https://megaflix.cloudfronte.lat/zzzstream/premiere4.m3u8
 #EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-name="PREMIERE 5 ALT" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",PREMIERE 5 ALT
 http://79.127.243.211:14493
 #EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",PREMIERE 5 HD
-http://prys.xyz:80/live/Sandramaria/22999061026/1026533.ts
+https://megaflix.cloudfronte.lat/zzzstream/premiere5.m3u8
 #EXTINF:-1 tvg-id="PREMIERE 6 HD" tvg-name="CANAIS | PREMIERE 6 alternativo HD³" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",CANAIS | PREMIERE 6 ALT
 http://79.127.243.211:14497
 #EXTINF:-1 tvg-id="PREMIERE 6 HD" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",PREMIERE 6 HD
-http://prys.xyz:80/live/Sandramaria/22999061026/1026535.ts
+https://megaflix.cloudfronte.lat/zzzstream/premiere6.m3u8
 #EXTINF:-1 tvg-id="PREMIERE 7 HD" tvg-name="PREMIERE 7 ALT" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",PREMIERE 7 ALT
 http://79.127.243.211:14501
 #EXTINF:-1 tvg-id="PREMIERE 7 HD" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",PREMIERE 7 HD
-http://prys.xyz:80/live/Sandramaria/22999061026/1026537.ts
+https://megaflix.cloudfronte.lat/zzzstream/premiere7.m3u8
 #EXTINF:-1 tvg-id="PREMIERE 8 HD" tvg-name="PREMIERE 8 ALT" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",PREMIERE 8 ALT
 http://79.127.243.211:14497
 #EXTINF:-1 tvg-id="PREMIERE 8 HD" tvg-name="PREMIERE 8 HD" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="CANAIS | PREMIERE",PREMIERE 8 HD
-http://prys.xyz:80/live/Sandramaria/22999061026/1026539.ts
+https://megaflix.cloudfronte.lat/zzzstream/premiere8.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN1 ALT" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN1 ALT
 http://46.151.196.223:14366
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",ESPN HD
-http://prys.xyz:80/live/Sandramaria/22999061026/1026125.ts
+https://megaflix.cloudfronte.lat/zzzstream/espn.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="- ESPN2 ALT" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN2 ALT
 http://46.151.196.223:14553
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",ESPN 2 HD
-http://prys.xyz:80/live/Sandramaria/22999061026/1026128.ts
+https://megaflix.cloudfronte.lat/zzzstream/espn2.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="- ESPN3 ALT" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN3 ALT
 http://46.151.196.223:14444
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 HD" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",ESPN 3 HD
-http://prys.xyz:80/live/Sandramaria/22999061026/1026131.ts
+https://megaflix.cloudfronte.lat/zzzstream/espn3.m3u8
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="- ESPN4 alternativo HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN4 ALT
 http://46.151.196.223:14450
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",ESPN 4 HD
-http://prys.xyz:80/live/Sandramaria/22999061026/1026134.ts
+https://megaflix.cloudfronte.lat/zzzstream/espn4.m3u8
 #EXTINF:-1 tvg-id="ESPN 5" tvg-name="- ESPN5 HD³" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN5 HD³
-http://prys.xyz:80/live/Sandramaria/22999061026/1026137.ts
+https://megaflix.cloudfronte.lat/zzzstream/espn5.m3u8
 #EXTINF:-1 tvg-id="ESPN 5" tvg-name="- ESPN5 ALT" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN5 ALT
 http://46.151.196.223:14456
 #EXTINF:-1 tvg-id="ESPN 6" tvg-name="- ESPN6" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",- ESPN6
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/129623.ts
+https://megaflix.cloudfronte.lat/zzzstream/espn6.m3u8
 #EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6 HD ALT" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",ESPN 6 HD ALT
 http://hls1.sua.tv:80/live/espnextrafhd/s.ts
 #EXTINF:-1 tvg-id="plus.globosat.br" tvg-name="+GLOBOSAT HD¹" tvg-logo="https://www.fontedecanais.io/logos/canais/globo.png" group-title="⏺️ GLOBO ",+GLOBOSAT HD¹
@@ -2635,342 +2635,352 @@ http://425.sshgarem.com:80/Dbdjsk/leo334/4984308
 http://425.sshgarem.com:80/Dbdjsk/leo334/4984309
 #EXTINF:-1 tvg-id="" tvg-name="Metropoles Esportes 4" tvg-logo="https://files.metropoles.com/static/expediente/assets/images/general/portal-metropoles.jpg" group-title="⚽ESPORTES PPV",Metropoles Esportes 4
 http://425.sshgarem.com:80/Dbdjsk/leo334/4984310
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E01" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E01
-http://cdn-user.com:80/series/beatriztriz/abc1123/355547.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E02" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E02
-http://cdn-user.com:80/series/beatriztriz/abc1123/356067.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E03" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E03
-http://cdn-user.com:80/series/beatriztriz/abc1123/356153.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E04" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E04
-http://cdn-user.com:80/series/beatriztriz/abc1123/356322.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E05" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E05
-http://cdn-user.com:80/series/beatriztriz/abc1123/358566.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E06" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E06
-http://cdn-user.com:80/series/beatriztriz/abc1123/358567.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E07" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E07
-http://cdn-user.com:80/series/beatriztriz/abc1123/361470.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E08" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E08
-http://cdn-user.com:80/series/beatriztriz/abc1123/361471.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E09" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E09
-http://cdn-user.com:80/series/beatriztriz/abc1123/361612.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E10" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E10
-http://cdn-user.com:80/series/beatriztriz/abc1123/361859.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E11" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E11
-http://cdn-user.com:80/series/beatriztriz/abc1123/362545.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E12" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E12
-http://cdn-user.com:80/series/beatriztriz/abc1123/363952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E13" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E13
-http://cdn-user.com:80/series/beatriztriz/abc1123/364583.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E14" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E14
-http://cdn-user.com:80/series/beatriztriz/abc1123/364584.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E15" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E15
-http://cdn-user.com:80/series/beatriztriz/abc1123/364742.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E16" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E16
-http://cdn-user.com:80/series/beatriztriz/abc1123/365075.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E17" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E17
-http://cdn-user.com:80/series/beatriztriz/abc1123/366633.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E18" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E18
-http://cdn-user.com:80/series/beatriztriz/abc1123/366634.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E19" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E19
-http://cdn-user.com:80/series/beatriztriz/abc1123/366635.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E20" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E20
-http://cdn-user.com:80/series/beatriztriz/abc1123/367209.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E21" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E21
-http://cdn-user.com:80/series/beatriztriz/abc1123/367265.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E22" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E22
-http://cdn-user.com:80/series/beatriztriz/abc1123/367527.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E23" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E23
-http://cdn-user.com:80/series/beatriztriz/abc1123/369353.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E24" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E24
-http://cdn-user.com:80/series/beatriztriz/abc1123/369354.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E25" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg,Tres Gracas S01 E25
-http://cdn-user.com:80/series/beatriztriz/abc1123/369355.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E26" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E26
-http://cdn-user.com:80/series/beatriztriz/abc1123/370404.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E27" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E27
-http://cdn-user.com:80/series/beatriztriz/abc1123/370556.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E28" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg,Tres Gracas S01 E28
-http://cdn-user.com:80/series/beatriztriz/abc1123/370597.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E29" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E29
-http://cdn-user.com:80/series/beatriztriz/abc1123/370837.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E30" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E30
-http://cdn-user.com:80/series/beatriztriz/abc1123/370838.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E31" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E31
-http://cdn-user.com:80/series/beatriztriz/abc1123/371148.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E32" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E32
-http://cdn-user.com:80/series/beatriztriz/abc1123/371557.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E33" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E33
-http://cdn-user.com:80/series/beatriztriz/abc1123/371641.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E34" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E34
-http://cdn-user.com:80/series/beatriztriz/abc1123/372072.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E35" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E35
-http://cdn-user.com:80/series/beatriztriz/abc1123/374442.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E36" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E36
-http://cdn-user.com:80/series/beatriztriz/abc1123/374443.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E37" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E37
-http://cdn-user.com:80/series/beatriztriz/abc1123/375105.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E38" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg,Tres Gracas S01 E38
-http://cdn-user.com:80/series/beatriztriz/abc1123/375299.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E39" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E39
-http://cdn-user.com:80/series/beatriztriz/abc1123/375474.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E40" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E40
-http://cdn-user.com:80/series/beatriztriz/abc1123/375475.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E41" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E41
-http://cdn-user.com:80/series/beatriztriz/abc1123/375734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E42" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E42
-http://cdn-user.com:80/series/beatriztriz/abc1123/375735.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E43" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E43
-http://cdn-user.com:80/series/beatriztriz/abc1123/375808.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E44" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg,Tres Gracas S01 E44
-http://cdn-user.com:80/series/beatriztriz/abc1123/375946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E45" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E45
-http://cdn-user.com:80/series/beatriztriz/abc1123/376050.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E46" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E46
-http://cdn-user.com:80/series/beatriztriz/abc1123/376176.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E47" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E47
-http://cdn-user.com:80/series/beatriztriz/abc1123/378466.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E48" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E48
-http://cdn-user.com:80/series/beatriztriz/abc1123/378467.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E49" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E49
-http://cdn-user.com:80/series/beatriztriz/abc1123/378936.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E50" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E50
-http://cdn-user.com:80/series/beatriztriz/abc1123/378937.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E51" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E51
-http://cdn-user.com:80/series/beatriztriz/abc1123/379009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E52" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E52
-http://cdn-user.com:80/series/beatriztriz/abc1123/379608.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E53" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E53
-http://cdn-user.com:80/series/beatriztriz/abc1123/380829.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E54" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E54
-http://cdn-user.com:80/series/beatriztriz/abc1123/380830.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E55" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E55
-http://cdn-user.com:80/series/beatriztriz/abc1123/381675.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E56" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E56
-http://cdn-user.com:80/series/beatriztriz/abc1123/381676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E57" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E57
-http://cdn-user.com:80/series/beatriztriz/abc1123/381677.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E58" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E58
-http://cdn-user.com:80/series/beatriztriz/abc1123/381678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E59" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E59
-http://cdn-user.com:80/series/beatriztriz/abc1123/381679.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E60" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E60
-http://cdn-user.com:80/series/beatriztriz/abc1123/382411.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E61" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg,Tres Gracas S01 E61
-http://cdn-user.com:80/series/beatriztriz/abc1123/382412.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E62" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg,Tres Gracas S01 E62
-http://cdn-user.com:80/series/beatriztriz/abc1123/382413.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E63" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E63
-http://cdn-user.com:80/series/beatriztriz/abc1123/382633.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E64" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E64
-http://cdn-user.com:80/series/beatriztriz/abc1123/382634.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E65" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg,Tres Gracas S01 E65
-http://cdn-user.com:80/series/beatriztriz/abc1123/382635.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E66" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E66
-http://cdn-user.com:80/series/beatriztriz/abc1123/382908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E67" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg,Tres Gracas S01 E67
-http://cdn-user.com:80/series/beatriztriz/abc1123/384266.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E68" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E68
-http://cdn-user.com:80/series/beatriztriz/abc1123/384530.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E69" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg,Tres Gracas S01 E69
-http://cdn-user.com:80/series/beatriztriz/abc1123/384531.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E70" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg,Tres Gracas S01 E70
-http://cdn-user.com:80/series/beatriztriz/abc1123/384598.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E71" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg,Tres Gracas S01 E71
-http://cdn-user.com:80/series/beatriztriz/abc1123/384868.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E72" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg,Tres Gracas S01 E72
-http://cdn-user.com:80/series/beatriztriz/abc1123/384869.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E73" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg,Tres Gracas S01 E73
-http://cdn-user.com:80/series/beatriztriz/abc1123/385438.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E74" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg,Tres Gracas S01 E74
-http://cdn-user.com:80/series/beatriztriz/abc1123/385439.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E75" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg,Tres Gracas S01 E75
-http://cdn-user.com:80/series/beatriztriz/abc1123/385440.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E76" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E76
-http://cdn-user.com:80/series/beatriztriz/abc1123/386254.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E77" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E77
-http://cdn-user.com:80/series/beatriztriz/abc1123/386255.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E78" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E78
-http://cdn-user.com:80/series/beatriztriz/abc1123/386256.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E79" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E79
-http://cdn-user.com:80/series/beatriztriz/abc1123/386978.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E80" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E80
-http://cdn-user.com:80/series/beatriztriz/abc1123/387123.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E81" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E81
-http://cdn-user.com:80/series/beatriztriz/abc1123/387124.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E82" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E82
-http://cdn-user.com:80/series/beatriztriz/abc1123/387125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E83" tvg-logo="http://cdn4k.ink:80/images/unemNyi6rRXFqEOeDyanufvzfCO_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E83
-http://cdn-user.com:80/series/beatriztriz/abc1123/387863.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E84" tvg-logo="http://cdn4k.ink:80/images/kjTAy6CGONjDljCHj3iek1yZaaj_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E84
-http://cdn-user.com:80/series/beatriztriz/abc1123/387864.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E85" tvg-logo="http://cdn4k.ink:80/images/_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E85
-http://cdn-user.com:80/series/beatriztriz/abc1123/387935.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E86" tvg-logo="http://cdn4k.ink:80/images/_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E86
-http://cdn-user.com:80/series/beatriztriz/abc1123/388132.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E87" tvg-logo="http://cdn4k.ink:80/images/win21UTx19qKixBeaDyoQqfYrHf_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E87
-http://cdn-user.com:80/series/beatriztriz/abc1123/388364.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E88" tvg-logo="http://cdn4k.ink:80/images/pKJcZFUX7KuhzevcNWzzaDMdePm_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E88
-http://cdn-user.com:80/series/beatriztriz/abc1123/388365.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E89" tvg-logo="http://cdn4k.ink:80/images/bI1Tb5OWqtEhIEDkxVw6HASpENN_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E89
-http://cdn-user.com:80/series/beatriztriz/abc1123/389718.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E90" tvg-logo="http://cdn4k.ink:80/images/mGYrjlKfDT6zqpz3SEGIgHL58sP_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E90
-http://cdn-user.com:80/series/beatriztriz/abc1123/389719.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E91" tvg-logo="http://cdn4k.ink:80/images/zJFTzNDAX0HyPDcPjA42oFfr6fn_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E91
-http://cdn-user.com:80/series/beatriztriz/abc1123/389817.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E92" tvg-logo="http://cdn4k.ink:80/images/9EHZYOR75pxHNBClnt1Ua1IuMb1_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E92
-http://cdn-user.com:80/series/beatriztriz/abc1123/390016.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E93" tvg-logo="http://cdn4k.ink:80/images/9rIzxSMyxQPs9rmbAJ9Qf9XArLA_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E93
-http://cdn-user.com:80/series/beatriztriz/abc1123/390017.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E94" tvg-logo="http://cdn4k.ink:80/images/7VlCPhcZPsBLr9vSXa3tijHIiey_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E94
-http://cdn-user.com:80/series/beatriztriz/abc1123/390086.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E95" tvg-logo="http://cdn4k.ink:80/images/pYksnysgFys6B1LzaWqDpAqxmxz_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E95
-http://cdn-user.com:80/series/beatriztriz/abc1123/390551.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E96" tvg-logo="http://cdn4k.ink:80/images/omaIMpgXQ5mAWbfQfgqf2DUZzGR_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E96
-http://cdn-user.com:80/series/beatriztriz/abc1123/390595.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E97" tvg-logo="http://cdn4k.ink:80/images/2KRVqG3gemeCHynKIxmr9xoybEU_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E97
-http://cdn-user.com:80/series/beatriztriz/abc1123/390596.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E98" tvg-logo="http://cdn4k.ink:80/images/q1g8e54qld6RoMvESMWXPajjCkj_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E98
-http://cdn-user.com:80/series/beatriztriz/abc1123/391235.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E99" tvg-logo="http://cdn4k.ink:80/images/_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E99
-http://cdn-user.com:80/series/beatriztriz/abc1123/391236.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E100" tvg-logo="http://cdn4k.ink:80/images/qv5wybvCBbdXztwXXTuz6OkF9gc_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E100
-http://cdn-user.com:80/series/beatriztriz/abc1123/391770.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E101" tvg-logo="http://cdn4k.ink:80/images/wP7l7bGdi5l4FYEZpw2UkW7wUWn_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E101
-http://cdn-user.com:80/series/beatriztriz/abc1123/391771.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E102" tvg-logo="http://cdn4k.ink:80/images/i2uehooHQXXoTjw2eWD6XU0VAyX_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E102
-http://cdn-user.com:80/series/beatriztriz/abc1123/391772.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E103" tvg-logo="http://cdn4k.ink:80/images/89ChWS5pz5UE0v3YT9Isk4XA8K2_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E103
-http://cdn-user.com:80/series/beatriztriz/abc1123/392764.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E104" tvg-logo="http://cdn4k.ink:80/images/jU0SmsVr2nFOhZrufAESB4CzWMP_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E104
-http://cdn-user.com:80/series/beatriztriz/abc1123/392900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E105" tvg-logo="http://cdn4k.ink:80/images/_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E105
-http://cdn-user.com:80/series/beatriztriz/abc1123/392901.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E106" tvg-logo="http://cdn4k.ink:80/images/7S4pJcR2gs0T9Ttc23FtQI7Zdfc_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E106
-http://cdn-user.com:80/series/beatriztriz/abc1123/393859.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E107" tvg-logo="http://cdn4k.ink:80/images/jC3VSaCAfw9stj7sX1zkx9lVm6Y_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E107
-http://cdn-user.com:80/series/beatriztriz/abc1123/393860.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E108" tvg-logo="http://cdn4k.ink:80/images/3Et1V9ouWHjf8EQxHhx3YY6Rsja_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E108
-http://cdn-user.com:80/series/beatriztriz/abc1123/393861.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E109" tvg-logo="http://cdn4k.ink:80/images/1f0CuvYv2CLedFlNPdxwSDkQHmF_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E109
-http://cdn-user.com:80/series/beatriztriz/abc1123/394087.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E110" tvg-logo="http://cdn4k.ink:80/images/_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E110
-http://cdn-user.com:80/series/beatriztriz/abc1123/394088.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E111" tvg-logo="http://cdn4k.ink:80/images/_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E111
-http://cdn-user.com:80/series/beatriztriz/abc1123/394308.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E112" tvg-logo="http://cdn4k.ink:80/images/_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E112
-http://cdn-user.com:80/series/beatriztriz/abc1123/395107.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E113" tvg-logo="http://cdn-user.com/images/7seTpDnJSSrK82dO7TASny1HNwj_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E113
-http://cdn-user.com:80/series/beatriztriz/abc1123/395601.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E114" tvg-logo="http://cdn-user.com/images/_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E114
-http://cdn-user.com:80/series/beatriztriz/abc1123/395602.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E115" tvg-logo="http://cdn-user.com/images/nMuK3hMumSDHHaCx9jj0zAjXcSY_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E115
-http://cdn-user.com:80/series/beatriztriz/abc1123/397300.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E116" tvg-logo="http://cdn-user.com/images/7HwksSxpriGAhdb54uUYy5jvG2W_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E116
-http://cdn-user.com:80/series/beatriztriz/abc1123/397301.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E117" tvg-logo="http://cdn-user.com/images/xkysJlYb2FZF9YKUhWLwCo52Fod_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E117
-http://cdn-user.com:80/series/beatriztriz/abc1123/397302.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E118" tvg-logo="http://cdn-user.com/images/y6OmiLKSo2vkb13BrXzBdhFvdao_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E118
-http://cdn-user.com:80/series/beatriztriz/abc1123/397303.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E119" tvg-logo="http://cdn-user.com/images/8rGf6FdlwzPcUHZi9mur30uUhLT_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E119
-http://cdn-user.com:80/series/beatriztriz/abc1123/397304.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E120" tvg-logo="http://cdn-user.com/images/_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E120
-http://cdn-user.com:80/series/beatriztriz/abc1123/397305.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E121" tvg-logo="http://cdn-user.com/images/_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E121
-http://cdn-user.com:80/series/beatriztriz/abc1123/397718.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E122" tvg-logo="http://cdn-user.com/images/w1Q2IEaMxGxpg71o7upYb5a2i3S_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E122
-http://cdn-user.com:80/series/beatriztriz/abc1123/398472.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E123" tvg-logo="http://cdn-user.com/images/xfOe8aF0v586y4rBQKOhc2sCdJW_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E123
-http://cdn-user.com:80/series/beatriztriz/abc1123/399195.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E124" tvg-logo="http://cdn-user.com/images/dbO7ic0nE8UY7IeVYlapbUBLNCY_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E124
-http://cdn-user.com:80/series/beatriztriz/abc1123/401530.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E125" tvg-logo="http://cdn-user.com/images/j3NXpBVanWnHpVJbZm1WAEAb4bi_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E125
-http://cdn-user.com:80/series/beatriztriz/abc1123/401531.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E126" tvg-logo="http://cdn-user.com/images/ictpLhwEYTR08KVwfY1uGARpIup_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E126
-http://cdn-user.com:80/series/beatriztriz/abc1123/401532.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E127" tvg-logo="http://cdn-user.com/images/_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E127
-http://cdn-user.com:80/series/beatriztriz/abc1123/401721.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E128" tvg-logo="http://cdn-user.com/images/_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E128
-http://cdn-user.com:80/series/beatriztriz/abc1123/401912.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E129" tvg-logo="http://cdn-user.com/images/euLl4ntSW4bJE5QnDk90UKGW2Tp_big.jpg" group-title="Tres Gracas",Tres Gracas S01 E129
-http://cdn-user.com:80/series/beatriztriz/abc1123/402225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E130" tvg-logo="http://cdn-user.com/images/euLl4ntSW4bJE5QnDk90UKGW2Tp_big.jpg" group-title="Tres Gracas",Tres Gracas S01 E130
-http://cdn-user.com:80/series/beatriztriz/abc1123/402226.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E131" tvg-logo="http://cdn-user.com/images/8zgBLAinnD5nBVqxYyzBxTWrYJ9_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E131
-http://cdn-user.com:80/series/beatriztriz/abc1123/402340.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E132" tvg-logo="http://cdn-user.com/images/yrzPpzyhdYGdygqFVyCeidaw15P_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E132
-http://cdn-user.com:80/series/beatriztriz/abc1123/402341.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E133" tvg-logo="http://cdn-user.com/images/eDUOCFaeOMqNE9lMKIABHNi62M4_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E133
-http://cdn-user.com:80/series/beatriztriz/abc1123/402448.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E134" tvg-logo="http://cdn-user.com/images/i2PRwDs9YlMHdmkZWPkRcSZVVak_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E134
-http://cdn-user.com:80/series/beatriztriz/abc1123/402784.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E135" tvg-logo="http://cdn-user.com/images/nxHbbPvhWyeK7hr9EfT8dHp0Nxg_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E135
-http://cdn-user.com:80/series/beatriztriz/abc1123/403857.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E136" tvg-logo="http://cdn-user.com/images/tvtkkfmLnNGhKSlDkigBs26Dn9c_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E136
-http://cdn-user.com:80/series/beatriztriz/abc1123/403858.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E137" tvg-logo="http://cdn-user.com/images/jNBP7eGhYgqTP79X07eOhjJR5qK_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E137
-http://cdn-user.com:80/series/beatriztriz/abc1123/403859.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E138" tvg-logo="http://cdn-user.com/images/f2W7ZvET97OC760eYwSyd1OGyiw_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E138
-http://cdn-user.com:80/series/beatriztriz/abc1123/403860.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E139" tvg-logo="http://cdn-user.com/images/8F4o1Q1tTWBb03SywTqLao3pUvt_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E139
-http://cdn-user.com:80/series/beatriztriz/abc1123/404062.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E140" tvg-logo="http://cdn-user.com/images/_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E140
-http://cdn-user.com:80/series/beatriztriz/abc1123/404674.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E141" tvg-logo="http://cdn-user.com/images/_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E141
-http://cdn-user.com:80/series/beatriztriz/abc1123/404858.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E142" tvg-logo="http://cdn-user.com/images/td3Vhax2A7v6IKLKAr1tkqe8Oa6_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E142
-http://cdn-user.com:80/series/beatriztriz/abc1123/405478.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E143" tvg-logo="http://cdn-user.com/images/yfnHQUly4kiJs2BtVQjXk9aD1AU_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E143
-http://cdn-user.com:80/series/beatriztriz/abc1123/405963.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E144" tvg-logo="http://cdn-user.com/images/jVf1r6H4k7zu7WjHVEhWsNtx6S2_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E144
-http://cdn-user.com:80/series/beatriztriz/abc1123/405964.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E145" tvg-logo="http://cdn-user.com/images/_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E145
-http://cdn-user.com:80/series/beatriztriz/abc1123/405965.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E146" tvg-logo="http://cdn-user.com/images/_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E146
-http://cdn-user.com:80/series/beatriztriz/abc1123/405966.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E147" tvg-logo="http://cdn-user.com/images/_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E147
-http://cdn-user.com:80/series/beatriztriz/abc1123/406274.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E148" tvg-logo="http://cdn-user.com/images/_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E148
-http://cdn-user.com:80/series/beatriztriz/abc1123/406891.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E149" tvg-logo="http://cdn-user.com/images/1cTFzrqtXQxGripknzierdJMPRd_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E149
-http://cdn-user.com:80/series/beatriztriz/abc1123/408957.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E150" tvg-logo="http://cdn-user.com/images/acpKNeOKO8Ai1CrqHj5iLScM3rY_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E150
-http://cdn-user.com:80/series/beatriztriz/abc1123/408958.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E151" tvg-logo="http://cdn-user.com/images/_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E151
-http://cdn-user.com:80/series/beatriztriz/abc1123/408959.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E152" tvg-logo="http://cdn-user.com/images/_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E152
-http://cdn-user.com:80/series/beatriztriz/abc1123/408960.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E153" tvg-logo="http://cdn-user.com/images/_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E153
-http://cdn-user.com:80/series/beatriztriz/abc1123/408961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E154" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83PWcTz8jr8LMoxUnnju41BA0nh.jpg" group-title="Tres Gracas",Tres Gracas S01 E154
-http://cdn-user.com:80/series/beatriztriz/abc1123/410538.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E155" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzPVTbegkDPjbcyt058hhxKE4h1.jpg" group-title="Tres Gracas",Tres Gracas S01 E155
-http://cdn-user.com:80/series/beatriztriz/abc1123/410539.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E156" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9KdCwKwMkdH1fNoEG5bTvW3rcI.jpg" group-title="Tres Gracas",Tres Gracas S01 E156
-http://cdn-user.com:80/series/beatriztriz/abc1123/410540.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E157" tvg-logo="http://cdn-user.com/images/mIqgkw53z6HVWNAgW4UMch5JaPB_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E157
-http://cdn-user.com:80/series/beatriztriz/abc1123/412548.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E158" tvg-logo="http://cdn-user.com/images/mqPBjfJs5cmUnc5UdI4EDVEu03n_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E158
-http://cdn-user.com:80/series/beatriztriz/abc1123/412549.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E159" tvg-logo="http://cdn-user.com/images/wLXFS6eUteXfP70DHzedMk88jIa_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E159
-http://cdn-user.com:80/series/beatriztriz/abc1123/412550.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E160" tvg-logo="http://cdn-user.com/images/wQHj3yt1rVbdBGr4elkBCjGNoiU_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E160
-http://cdn-user.com:80/series/beatriztriz/abc1123/412551.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E161" tvg-logo="http://cdn-user.com/images/aZ1KXXhulHEmw2f87AV50vk0xmG_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E161
-http://cdn-user.com:80/series/beatriztriz/abc1123/412552.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E162" tvg-logo="http://cdn-user.com/images/tMP66tSEWZppRpLA8Z0zflVq3lQ_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E162
-http://cdn-user.com:80/series/beatriztriz/abc1123/412553.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E163" tvg-logo="http://cdn-user.com:80/images/s4CkGsrm8DARmv8Pae0yFpR1AIv_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E163
-http://cdn-user.com:80/series/beatriztriz/abc1123/413520.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E164" tvg-logo="http://cdn-user.com:80/images/1ypUnxA0CbdLGxdONsWz9QyWlue_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E164
-http://cdn-user.com:80/series/beatriztriz/abc1123/413521.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E165" tvg-logo="http://cdn-user.com:80/images/7HG5e295QeqqVwhbqczmetygnhC_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E165
-http://cdn-user.com:80/series/beatriztriz/abc1123/413522.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E166" tvg-logo="http://cdn-user.com:80/images/wZsjHwLzqtcCXfkZIHCPPVe4oHJ_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E166
-http://cdn-user.com:80/series/beatriztriz/abc1123/413523.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E167" tvg-logo="http://cdn-user.com:80/images/8vtqlkboKLW9XRxU8aHFlyYZ8dq_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E167
-http://cdn-user.com:80/series/beatriztriz/abc1123/413524.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E168" tvg-logo="http://cdn-user.com:80/images/lWasjXKA8jeSIz91qeKV4L5MrhX_small.jpg" group-title="Tres Gracas",Tres Gracas S01 E168
-http://cdn-user.com:80/series/beatriztriz/abc1123/413525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E01" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E01
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/889868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E02" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E02
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/889869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E03" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E03
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/889870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E04" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E04
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/889871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E05" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E05
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/889872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E06" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E06
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/889873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E07" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E07
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/890636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E08" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E08
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/890637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E09" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E09
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/890998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E10" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E10
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/890999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E11" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E11
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/891000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E12" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E12
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/891001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E13" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E13
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/891817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E14" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E14
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/891818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E15" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E15
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/891819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E16" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E16
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/891990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E17" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E17
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/892605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E18" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E18
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/892606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E19" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E19
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/892607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E20" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E20
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/892608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E21" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E21
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/892609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E22" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E22
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/892610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E23" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E23
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/892611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E24" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E24
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/892612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E25" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E25
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/893056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E26" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E26
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/893057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E27" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E27
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/893058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E28" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E28
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/893335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E29" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E29
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/893336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E30" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E30
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/893337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E31" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E31
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/893446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E32" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E32
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/893447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E33" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E33
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/893554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E34" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E34
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/893555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E35" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E35
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/893556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E36" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E36
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/893557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E37" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E37
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/894191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E38" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E38
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/894192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E39" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E39
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/894193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E40" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E40
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/894194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E41" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E41
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/895816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E42" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E42
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/895817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E43" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E43
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/895818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E44" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E44
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/895819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E45" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E45
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/895820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E46" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E46
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/895821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E47" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E47
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/895822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E48" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E48
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/896209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E49" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E49
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/896385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E50" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E50
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/896386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E51" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E51
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/896387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E52" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E52
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/896642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E53" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E53
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/896643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E54" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E54
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/896644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E55" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E55
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/897391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E56" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E56
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/897392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E57" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E57
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/897393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E58" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E58
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/897394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E59" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E59
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/897395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E60" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E60
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/897551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E61" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E61
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/897552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E62" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E62
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/897553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E63" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E63
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/897554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E64" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E64
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/897727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E65" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E65
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/897728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E66" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E66
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/898661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E67" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E67
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/900158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E68" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E68
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/900159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E69" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E69
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/900160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E70" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E70
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/900161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E71" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E71
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/900162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E72" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E72
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/900696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E73" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E73
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/900697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E74" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E74
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/900698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E75" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E75
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/900699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E76" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E76
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/902301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E77" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E77
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/902302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E78" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E78
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/902303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E79" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E79
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/902304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E80" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E80
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/902698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E81" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E81
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/902741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E82" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E82
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/902830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E83" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E83
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/902831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E84" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E84
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/902832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E85" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E85
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/903016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E86" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E86
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/903017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E87" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E87
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/903018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E88" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E88
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/903642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E89" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E89
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/903643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E90" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E90
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/903644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E91" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E91
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/903927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E92" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E92
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/904042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E93" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E93
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/904043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E94" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E94
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/904044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E95" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E95
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/904267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E96" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E96
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/904898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E97" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E97
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/904899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E98" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E98
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/904900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E99" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E99
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/904901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E100" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E100
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/904969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E101" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E101
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/904970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E102" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E102
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/904971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E103" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E103
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/905187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E104" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E104
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/905188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E105" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E105
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/905189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E106" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E106
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/905826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E107" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E107
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/905827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E108" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E108
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/905828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E109" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E109
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/905829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E110" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E110
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/905830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E111" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E111
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/905831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E112" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E112
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/906169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E113" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E113
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/906170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E114" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E114
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/906171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E115" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E115
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/907083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E116" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E116
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/907084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E117" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E117
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/907085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E118" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E118
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/907086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E119" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E119
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/907087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E120" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E120
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/907088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E121" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E121
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/907524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E122" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E122
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/907525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E123" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E123
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/907526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E124" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E124
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/908143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E125" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E125
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/908144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E126" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E126
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/908145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E127" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E127
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/908791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E128" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E128
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/908792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E129" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E129
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/908793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E130" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E130
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/908794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E131" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E131
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/908795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E132" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E132
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/908796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E133" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E133
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/908797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E134" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E134
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/908798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E135" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E135
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/908883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E136" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E136
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/908884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E137" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E137
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/909601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E138" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E138
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/909602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E139" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E139
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/909603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E140" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E140
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/909604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E141" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E141
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/909847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E142" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E142
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/909848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E143" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E143
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/910550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E144" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E144
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/910551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E145" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E145
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/910552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E146" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E146
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/910553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E147" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E147
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/910950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E148" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E148
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/910951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E149" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E149
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/912215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E150" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E150
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/912216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E151" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E151
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/912217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E152" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E152
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/912218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E153" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E153
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/912219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E154" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E154
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/912942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E155" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E155
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/912943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E156" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E156
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/912944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E157" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E157
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/913798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E158" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E158
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/913799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E159" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E159
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/913800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E160" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E160
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/913801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E161" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E161
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/913802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E162" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E162
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/913803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E163" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E163
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/914143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E164" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E164
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/914144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E165" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E165
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/914145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E166" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E166
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/914313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E167" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E167
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/914314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E168" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E168
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/914315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E169" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E169
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/914758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E170" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E170
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/914759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E171" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E171
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/914760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E172" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E172
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/914761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Gracas S01 E173" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/euLl4ntSW4bJE5QnDk90UKGW2Tp.jpg" group-title="Tres Gracas",Tres Gracas S01 E173
+http://sinalmycn.com:80/series/632035/GqGcFV4ntu/914857.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Vikings: Valhalla S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uCr7Ov7Rpzx0c0EPqbPcoEruTYl.jpg" group-title="Vikings: Valhalla",Vikings: Valhalla S01 E01
 http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/205473.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Vikings: Valhalla S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uCr7Ov7Rpzx0c0EPqbPcoEruTYl.jpg" group-title="Vikings: Valhalla",Vikings: Valhalla S01 E02
@@ -3847,6 +3857,24 @@ http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/206398.mp4
 http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/206399.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Grito das Mariposas S01 E13" tvg-logo="https://media.themoviedb.org/t/p/w600_and_h900_face/nIL4TX7gugNRi9pi2M6Pz2rmdzh.jpg" group-title="O Grito das Mariposas",O Grito das Mariposas S01 E13
 http://hubby.run:80/series/Pdsrv-vods/BKYSD5hhDx/206400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Garota Desconhecida" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/gCzBuPXsj8UUwqKJ3Q4IntzujCV.jpg" group-title="Filmes | Lancamentos",Garota Desconhecida
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/915085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marco: Justiça Implacável" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/i6UUwEGt7aLokTjdcTt1xlh0Aul.jpg" group-title="Filmes | Lancamentos",Marco: Justiça Implacável
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/915084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Garotos" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ksxch1HeoKe9VQIaQs7qSfAkC5t.jpg" group-title="Filmes | Lancamentos",Entre Garotos
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/915083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Greve da Seleção da França" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/sOsS71qbsHDjGkjnOACvz4Pvfee.jpg" group-title="Filmes | Lancamentos",A Greve da Seleção da França
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/915082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Fagulha de Esperança" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/3DsigoWxV0S0z31OzNG6L42q4aj.jpg" group-title="Filmes | Lancamentos",A Última Fagulha de Esperança
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/915081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Justiceiro: Uma Última Morte" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ppRmgI2MbEOADvKKvlNoRJHPXOT.jpg" group-title="Filmes | Lancamentos",O Justiceiro: Uma Última Morte
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/915080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Preço da Violência" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/mU9kqIHmmxLo4zwkkJwurdqSOV6.jpg" group-title="Filmes | Lancamentos",O Preço da Violência
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/915079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Imortais" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/lsn9IR64RyO83GvIDnfROJ2O4LL.jpg" group-title="Filmes | Lancamentos",Imortais
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/915078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Untold Reino Unido: Jamie Vardy" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/t3cxqW5ZlQnLO8rhzKbrW8uOgaI.jpg" group-title="Filmes | Lancamentos",Untold Reino Unido: Jamie Vardy
+http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/915077.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Devoradores de Estrelas" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/bOzG3SG6gBxHGGHYiq7xXeNb1bG.jpg" group-title="Filmes | Lancamentos",Devoradores de Estrelas
 http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/915076.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Amazônia Azul" tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/utob42PLnj471qpnRI25zjpuP4T.jpg" group-title="Filmes | Lancamentos",Amazônia Azul
