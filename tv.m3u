@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO TV BELÉM FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg" group-title="Canais | ESTADO DO PARÁ",GLOBO TV BELÉM FHD FONTE 1
-http://dali-as.skin:80/live/728442553/408909078/5299186.ts
+http://cdn.caterlune.top:80/live/28135330/41727867/223740.ts
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO TV BELÉM HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg" group-title="Canais | ESTADO DO PARÁ",GLOBO TV BELÉM FONTE 1
 http://celoricdn.online:80/live/440091608/557495028/39016.m3u8
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO Nacional" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg" group-title="Canais | ESTADO DO PARÁ",GLOBO Nacional
@@ -8,13 +8,15 @@ http://138.204.86.4:8080/GLOBO_HD/index.m3u8
 #EXTINF:-1 tvg-id="BAND HD" tvg-name="RBA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBqDyTK5SRE0eY1XqeWVzDSK4cfEnBomRIck78WhTxMd3IZj7idqYR5fGpR6KK2XYIqSNtwUyr1w44d_x27tiHxDnT435u_qFlkfDlVGYOV_M35IVpi_6NJcMG16hhYdPMXx1xk04RU83EDxl-Ory8wYEe-JgByX2rfIAE7EOww5gMYy3lK_LWizKs/s1600/rba200.jpg" group-title="Canais | ESTADO DO PARÁ",RBA TV
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD TV BELEM FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGpxBOd5f_P7dMhcfNGWs4g8e1ExA8SSJmW_W6Fy1B3X4WW3lNj5cWOj7Quzeh4K8OkBizHFm78KhIJA5sOaqaGZ-Ja0wwobRcqrgILzo9gjt790KD_Hc3yOadLeNYFsrgMTseYaBZ4xI/s0/recordbelem200.png" group-title="Canais | ESTADO DO PARÁ",RECORD TV BELEM FHD
-http://dali-as.skin:80/live/728442553/408909078/5298107.ts
+http://celoricdn.online:80/live/kaliu01103/01103kaliu/2041515.ts
 #EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD TV BELEM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGpxBOd5f_P7dMhcfNGWs4g8e1ExA8SSJmW_W6Fy1B3X4WW3lNj5cWOj7Quzeh4K8OkBizHFm78KhIJA5sOaqaGZ-Ja0wwobRcqrgILzo9gjt790KD_Hc3yOadLeNYFsrgMTseYaBZ4xI/s0/recordbelem200.png" group-title="Canais | ESTADO DO PARÁ",RECORD TV BELEM
-http://cdn.caterlune.top:80/live/28135330/41727867/127569.ts
+http://poptvcdn.online:80/live/ven11q3dgd02/55219969669/784752.ts
 #EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD TV NACIONAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGpxBOd5f_P7dMhcfNGWs4g8e1ExA8SSJmW_W6Fy1B3X4WW3lNj5cWOj7Quzeh4K8OkBizHFm78KhIJA5sOaqaGZ-Ja0wwobRcqrgILzo9gjt790KD_Hc3yOadLeNYFsrgMTseYaBZ4xI/s0/recordbelem200.png" group-title="Canais | ESTADO DO PARÁ",RECORD TV NACIONAL
 http://168.205.87.198:8555/live/1354/123456/285.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT PARÁ" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvRPUjJsgbRtN8pvfQ43QS8qF_uRHQHhzI7DRZbUifQm6UZBJqRqZmGzXKyuvSTDfbdqwYKsNEJgyKnxFiYAkU4YlUndDM1iAk23QfmpN_bzNQVI6Tmcu9Uu21jXqSx5JViHzdrkUF-eVRnVXj1uA04i6XnB4cg89aU7dBXb_mccGA1kDcZXvIJKkxLks/s1600/sbt.webp" group-title="Canais | ESTADO DO PARÁ",SBT PARÁ
 http://cdn.caterlune.top:80/live/28135330/41727867/6557010.ts
+#EXTINF:-1 tvg-id="Tv Guarajá - SBT" tvg-name="Tv Guarajá - SBT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisxR5Z9CcV_hGQ-iBmqI5lGTCwuHeBXM8jsrK_2He8UuHTMrWpl2r2tzQCPH4UzKQkmrs7vug6up5e8n3Ic_Q5EF-DxSOJ4yNLm1GOH7_6ropgObvkE5mMWaDjt9LA8A2VcuWEp_xISQiqerpItA634mC3L_7QmCMaETrHP2kiFQcHU_Uy5iv1nS43c2w/s1600/guaja.webp" group-title="Canais | ESTADO DO PARÁ",Tv Guarajá - SBT
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT nacional" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvRPUjJsgbRtN8pvfQ43QS8qF_uRHQHhzI7DRZbUifQm6UZBJqRqZmGzXKyuvSTDfbdqwYKsNEJgyKnxFiYAkU4YlUndDM1iAk23QfmpN_bzNQVI6Tmcu9Uu21jXqSx5JViHzdrkUF-eVRnVXj1uA04i6XnB4cg89aU7dBXb_mccGA1kDcZXvIJKkxLks/s1600/sbt.webp" group-title="Canais | ESTADO DO PARÁ",SBT Nacional
 https://aovivo.maissbt.com/channel.m3u8
 #EXTINF:-1 tvg-id="TV Marajoara" tvg-name="TV Marajoara" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqAnRJTsB67pr9kADaiiEh-IgbCQuEPQOwlUAV03D36IGm0LgK4hXrxJKT23ytk2sztVvwXqXgbZqkuJYq40bcEv_L9I8z7hjItd8qnIjSHUtLlGcLo_-ZCbi3Ut7Yti7dhqwjLVxIdbevNX6wloRxgp6Sxg5Fjh8bHmsN5TriOgFt8imKYPtYIC7QO9M/s1600/maraj.webp" group-title="Canais | ESTADO DO PARÁ",TV Marajoara
@@ -31,8 +33,6 @@ https://video09.logicahost.com.br/tvmpara/tvmpara/playlist.m3u8
 https://tv02.zas.media:1936/mixbelem/mixbelem/playlist.m3u8
 #EXTINF:-1 tvg-id="Super Marajoara" tvg-name="Super Marajoara" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr7Xjo50h64Tkccvod2CcS9z1jfKl9XaMwSDT1jKPPtdpvOOOCBSK39KAUCgQCFlF0ZL8NQhLL34f4UgILYYjTVYHlD1zkbmpX5Y-sXMeHlY933-7snVdPF4XdMaRXkHovtOwgmG3UrWEcEMmUIFD_3A5XUNdwwgsxbOVIhwMrLyCY4kLvk0xIAHkw2po/s1600/marasu.webp" group-title="Canais | ESTADO DO PARÁ",Super Marajoara
 https://tv02.zas.media:1936/supermarajoara/supermarajoara/playlist.m3u8
-#EXTINF:-1 tvg-id="Tv Guarajá - SBT" tvg-name="Tv Guarajá - SBT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisxR5Z9CcV_hGQ-iBmqI5lGTCwuHeBXM8jsrK_2He8UuHTMrWpl2r2tzQCPH4UzKQkmrs7vug6up5e8n3Ic_Q5EF-DxSOJ4yNLm1GOH7_6ropgObvkE5mMWaDjt9LA8A2VcuWEp_xISQiqerpItA634mC3L_7QmCMaETrHP2kiFQcHU_Uy5iv1nS43c2w/s1600/guaja.webp" group-title="Canais | ESTADO DO PARÁ",Tv Guarajá - SBT
-https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:-1 tvg-id="Redeclone.br" tvg-name="Rede Clouding" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaK6eSfFS63zXcjP2U0LeiSoA6ihHsxmL9lif8ZyuTxxMLjeAIMBeI86doSEP-d88x_Mp8Vv5pJip7Z18sPcS-63oo8jNyxruDRmFjNePiKMuVAXVstiw83s7LiX8xQ2GynmCxnRMbUlbvLAYMAKcWGLP7RIGdPEdA-DJ8MPaw_1CvnrFcj9peBJFArxs/s1600/redeclouding.png" group-title="Canais | ESTADO DO PARÁ",Rede Clouding
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV NBT" tvg-name="TV NBT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dee1243c933082ee25e309ab91b54f4d.webp" group-title="Canais | ESTADO DO PARÁ",TV NBT
@@ -135,8 +135,6 @@ https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/tvnilcera/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox Kids" tvg-name="Fox Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzPMSj0CIUdwViQvfoHCh1eV9sDxDJkZud88cVU8mXob8toh-XerdErUJ5rSXNNFWM9_7_qJvOlZY8cdHJ2BTWOCvc8uT5bAWaaYoAf7IODte8tjkkH1Z8UQQc1B8otha0v_78QpZzL1Wa3RoTstC_QnwDjJeK-48-RKGNlD1pv0S_Bwh8KWEtTpILFuQ/s1600/fox-kids-network.jpg" group-title="Canais | DESENHOS",Fox Kids
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
-#EXTINF:-1 tvg-id="Jetix" tvg-name="Jetix" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvsm8f0WNuMwcSssDogmSiaci6yMQt882T_AlC7bU94I4fbDk40x4s0pcrO1_9ipidQDt1n0gDYuEFCsr5jYwTfk5b29VXkWkc3FNgiz3NELI_uBM8YaTFa8SV_4FzbpDlJApCxFBZXCQHtFhBOYH6AAbXSsSQugb-OjNKqn-tAql7-I-yz-tc8WlgbZY/s1600/jetix-logo.jpg" group-title="Canais | DESENHOS",Jetix
-https://s1.tvr.ovh/jetix/jetix/playlist.m3u8
 #EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJwe6wPgiTOIDvPYUCX-S2qD6cuYh7DYrzQwQGiGAafWDy7msQcpjfbBc7P4KyuwA-OeRvGO3c1KEJ47_eD-_k-hw_SLW84J3yzRvjB5BnkurXUHgRR5Qy7Nf9Slqi3jKEAIjKfLnmtimXuY_AxG26GlePiY4ZW93PRbRCmj9JikYrM_J0g1JyQBMEtLk/s1600/nicktoons.jpg" group-title="Canais | DESENHOS",Nicktoons
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="NBX TV KIDS" tvg-name="NBX TV KIDS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjmKfXFM9CROvEdOV7sB89qUvaFHtX75yeoMKXaH5U4XxjH3_0ZM5leJy2ezbkpEdTa3Eb8pNxDXzo-7ahH8FuWIk0fMnMGNXWzeTwq5JTGQqvNyi19XKq8zDp37TBie2yyqmzMrjliHHekJh2NUDOjYfPTeHraqO7WlatKomqS7ZEzqJ8WBQO4s0C8wE/s1600/nbxtvkids.png" group-title="Canais | DESENHOS",NBX TV KIDS
@@ -269,22 +267,16 @@ https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/playlist.m3u8
 https://stmv5.samcast.com.br/portalondasdemarica/portalondasdemarica/playlist.m3u8
 #EXTINF:-1  tvg-id="TV Flow" tvg-name="TV Flow" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDmad6BT5x9NKQOKOP8rIX9UAtj8VU6M4pjZS1w4ot3IPt16zXEKI3TnsTkuUpmbwUqHCobZXswuZhbAJgnzEDzIS4Ipbn8UEVhLaRQ41f40pa-gmJwmmIZhNOYiNHjqPs5VbTwUBwuXPnFzv_rqwQN_qCQo2dohhIkHumhPSVEWOGsHpWZT4tW33dcf8/s1600/flowtv.jpg" group-title="Canais | EDUCACÃO & CULTURA",TV Flow
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16364
-#EXTINF:-1  tvg-id="MANUAL DO MUNDO" tvg-name="MANUAL DO MUNDO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg37jSZOby75vyDD8MzgglmEPp7ny-O8B5dqAoKBjbtOI4SIrhSKyZgJzH2GQBNSZOvInQ1po_V3W_fWYYacMd4BYE-mREjI-spJdN8gTwGQiIXL5-9maFnqYFP-bCscaXM09T-Vw1iJVy2hENar1F6aocJ63PKQT7dyzZ0uhHZiL82lh0Wuse2QqUG2ww/s1600/manualdomundo.jpg" group-title="Canais | EDUCACÃO & CULTURA",MANUAL DO MUNDO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=15883
-#EXTINF:-1  tvg-id="Hackathon Brasil TV" tvg-name="Hackathon Brasil TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY3lekkUubJ7xzyZ3ZP7MOWqUP3fejtN-FTOS7_O9960cZy4bC3rdDsUj2RcilJHiBSmYKH3XTlt1oJ97vW4FuzZ_Edoj6GwSUVGhrdmocNGuRpmEt1wPdWbzNS2nWko4RsMVcU0ShdKsr492pU2D7DrFJnnEPcFzEeNYGge-cqkHyhoiz3LF2kmeTm44/s1600/hack.jpg" group-title="Canais | EDUCACÃO & CULTURA",Hackathon Brasil TV
-https://cdn-tiva-video04-logicahost-com-br.smartbit.co/hackathonbrasil/hackathonbrasil/playlist.m3u8
 #EXTINF:-1  tvg-id="Viva e Eduque" tvg-name="Viva e Eduque" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizwfZQqTtduv3iacpwYgZH09hIj_Yw2sgs3_ifXvzLOFmSZClaVf0wYt918EsfLWtf6l7ZxeCC0GOp_n2kWtnnt5aRZW3pxDyh2Yy7vOF5YeEitFqOgqpVB5NDqTXMPVNo7S1EjpkCypgJhwVxq2d7vV2v8aPzDIj6YlFkzJW-9Hau23zMbwcpxMfbDYY/s1600/vivaeduc.jpg" group-title="Canais | EDUCACÃO & CULTURA",Viva e Eduque
-https://cdn-tiva-video01-logicahost-com-br.smartbit.co/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
+https://cdn-origin.smartplay.pe/soultv-vivaeeduque/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-id="Tv História" tvg-name="Tv História" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKp27RPK0IwRVHl9C4CIp9sN5ISehUCh2d6Lp9XPiAb9RpQE-cOTOWtEZtwXjNKal_iJnsafWLgQQ-nrZvs30CANg9QoBMMiyIWJ1Bwtbv561k7a-PouoVpFy1p9lkCtFucgk_5UZO1GmsuJ843ERJ2dgKE16HWNZm1EdYrnFLcYaJYDmlTJ_bEhBXrRU/s1600/tv%20historia.jpg" group-title="Canais | EDUCACÃO & CULTURA",Tv História
-https://cdn-tiva-video10-logicahost-com-br.smartbit.co/tvhistoria/tvhistoria/playlist.m3u8
+https://cdn-origin.smartplay.pe/soultv-tvhistoria/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-id="TV CNU" tvg-name="TV CNU" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOtSKt8tNWmy6zQUlHKwR-Pv6F0DEWxdE4Jq4AO1mNfjF_L5bPT3zYuHYRIsjQHXvsgJhyphenhyphenfQ9rz-wijY-qpo1dG2TtwKfYEpoL6dsDkQG3Fr8r5tXDB21JBUFIafLnnSdDOktUD4nEhVPa1AfrF-6G6nwzhCruWYS12WUDvXc9Dy0LpAQAatBOC2Mm63Q/s1600/cnu.png" group-title="Canais | EDUCACÃO & CULTURA",TV CNU
 https://br5093.streamingdevideo.com.br/wbgpymgwys/wbgpymgwys/playlist.m3u8
 #EXTINF:-1  tvg-id="IJUÍ PLAY" tvg-name="IJUÍ PLAY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7LI6B4eDTYc-C6B-vT6l0CPtsReoNYX_PhJavUzCfrB2sJoLhAf5OeZ_Yq2_r1GmZy7lBiAdNG8vSDVtXAXC7KzEx0Q7-F4fwnKdR_rVy-pwUTjCMtMl9QJ4AUnWBY9pRmVVu262NUp0ZMID-apXMhinIg_n658MLOWoXZDmdN1Q7j-FjZGpfx7Xpyqc/s1600/ijuiplay.png" group-title="Canais | EDUCACÃO & CULTURA",IJUÍ PLAY
 https://video04.logicahost.com.br/schamlztv/schamlztv/playlist.m3u8
 #EXTINF:-1  tvg-id="REDEHTV" tvg-name="REDEHTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Q6vKmPZ4sXM7u_Ady8S4Fq3MBH_6T45T5m8Ob_Eo0Vs_ZE9SQVLjbg59aGnzqnVCOvkep8Ao1JC58GOPzjGbNjiUsKa09C6AXDqOcrpSXI17wrZEkM22PiiozQ0rl8B94bCml9aykRS-G7aYQqSEG1_1609D7IZh9m05Ead2XXFtsK6DMtuJcNv3oCU/s1600/tvhortlandia.png" group-title="Canais | EDUCACÃO & CULTURA",REDEHTV
 https://s1.tvr.ovh/video83070/video83070/playlist.m3u8
-#EXTINF:-1  tvg-id="TV Profissão" tvg-name="TV Profissão" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSWCsc3tq1rfqghniQ6QZlnWie8lM9i-iWdgtgnwlWsxY3uwj8r7xcoHkNGSiP2C0vsO_nPxD1GhUvhfxWoTA1PwssWxCd8RT2RFr5DLmK_8LxKWWkA2dAVxKokPFDyR7qQ-LhPO_qTzThs-vkPmGaih8NeULEfZT2NtIAR5K4pH__g8NHrD04FEqtAio/s1600/tvprofissao.png" group-title="Canais | EDUCACÃO & CULTURA",TV Profissão
-https://tv03.zas.media:1936/tvprofissao/tvprofissao/playlist.m3u8
 #EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="BAND SPORTS³ - alternativo" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES PPV",Band Sports HD³ - alternativo
 http://185.152.67.187:14474/
 #EXTINF:-1 tvg-id="Cazé tv 1 HD³" tvg-name="Cazé tv 1 HD³" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcEW3aDL9cgg-lIhjByb9TyXD1ZutrcNyPyzoeMMjd2vTvt1c81HZdwz0LmJtbbgH-3VpeEkjYpsLHLPzwo7VZZNWjzg7LNQyTKVo0GBBNhoVREslCqKsYXy64tXD8ISaYwW8lh-9TWFs8i6TQFOGxP0O_yViHWu8U2h7Y55Q77DRhz4eQSGNYUWxVTQk/s1600/cazetv.jpg" group-title="Canais | ESPORTES PPV",Cazé tv 1 HD³
@@ -2499,14 +2491,46 @@ http://dali-as.skin:80/live/728442553/408909078/5298297.ts
 http://dali-as.skin:80/live/728442553/408909078/5298295.ts
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda 18 - Camera 02 HD" tvg-logo="https://od.lk/d/NzdfNTg1NjM4NDFf/a-fazenda.png" group-title="CANAIS = A FAZENDA 18",A Fazenda 18 - Camera 02 HD
 http://dali-as.skin:80/live/728442553/408909078/5330788.ts
-#EXTINF:-1 tvg-name="Enquanto Houver Amor (2019)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL-DaCHg0Pww4doQJHgoyiz9Vat-2UA9b8mHanH9ZLRBM.jpg" group-title="Filmes | Drama",Enquanto Houver Amor (2019)
-http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/308470.mp4
 #EXTINF:-1 tvg-name="O Sorveteiro (2026)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLJiYwQYaKOQd0QwUUC2k_LofHXq68XNd0-TLOEhXHvYY.jpg" group-title="Filmes | Lançamentos",O Sorveteiro (2026)
 http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/308446.mp4
+#EXTINF:-1 tvg-name="Enquanto Houver Amor (2019)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL-DaCHg0Pww4doQJHgoyiz9Vat-2UA9b8mHanH9ZLRBM.jpg" group-title="Filmes | Drama",Enquanto Houver Amor (2019)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/308470.mp4
 #EXTINF:-1 tvg-name="Dragões em Dose Dupla (1992)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLlQ_7jMUeGHOO4tzcTdWufUDwbW2zOLTVr1bQcauc484.jpg" group-title="Filmes | Ação",Dragões em Dose Dupla (1992)
 http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/304721.mp4
 #EXTINF:-1 tvg-name="Sem Dor, Sem Ganho (2013)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLPtM5Vvzkur_sleqEbH7szpAAztKoOrAlGi3Sk23QUs4.jpg" group-title="Filmes | Ação",Sem Dor, Sem Ganho (2013)
 http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/303712.mp4
+#EXTINF:-1 tvg-name="Coração Selvagem (2026)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLtMa6EAQBSf_iZk-FG0MDToe5XRXphNGFYjxfzXORvM4.jpg" group-title="Filmes | Lançamentos",Coração Selvagem (2026)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/308938.mp4
+#EXTINF:-1 tvg-name="O Grinch (2018)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLvISrRBhShlDR8FGMzkoktlIdlcQ69DZdU1VMnwCSbtM.jpg" group-title="Filmes | Animação",O Grinch (2018)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/308936.mp4
+#EXTINF:-1 tvg-name="O Dia do Chacal (1973)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLUzBj69MTrHLJUuXvFjcIrINKRqBOvZbzATfR3cKzeuE.jpg" group-title="Filmes | Ação",O Dia do Chacal (1973)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/308934.mp4
+#EXTINF:-1 tvg-name="Tenzing (2026)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLKUXsncO88rqx0kJH1g-pjuvJ5SNqMgYyZMyfuWmmkcg.jpg" group-title="Filmes | Lançamentos",Tenzing (2026)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/308933.mp4
+#EXTINF:-1 tvg-name="Um Homem de Sorte (2012)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLOfcOrgcxG9OocmuKBc775KJU61QfhRdMOZ1Q82P2xCE.jpg" group-title="Filmes | Romance",Um Homem de Sorte (2012)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/308906.mp4
+#EXTINF:-1 tvg-name="Sabrina (1995)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLfAjKSnC8LqML4Mp0mReRIvwUnxRlsFcffXnf9O4aOEk.jpg" group-title="Filmes | Romance",Sabrina (1995)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/308900.mp4
+#EXTINF:-1 tvg-name="Resident Evil (2026)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLcPdAsNW_jNMvKZioNLjeRP4f-Oy_Uimu7zUQvKBeEmg.jpg" group-title="Filmes | Lançamentos",Resident Evil (2026)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/308871.mp4
+#EXTINF:-1 tvg-name="Barbie em O Quebra-Nozes (2026)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLZkytV8JuKIx147L0U8RN-XM6JkOrHzrE2wOH3SLABnI.jpg" group-title="Filmes | Lançamentos",Barbie em O Quebra-Nozes (2026)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/308870.mp4
+#EXTINF:-1 tvg-name="A Criança do Lago (2025)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5o6s2exUnpP9xEK-ZGdpm5XPWKeFMr0vYUAodn6wlOg.jpg" group-title="Filmes | Terror",A Criança do Lago (2025)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/308869.mp4
+#EXTINF:-1 tvg-name="Minha Melhor Amiga (2026)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLiHlrr_-Z4QTiLxptPB90Jfyq3RSpB-Zo1h93DPGhT-c.jpg" group-title="Filmes | Lançamentos",Minha Melhor Amiga (2026)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/308868.mp4
+#EXTINF:-1 tvg-name="A Ladra Solitária (2026)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL6otMkx5LFkwDtsifN6MXsa3Tb0Madf2Bgc6KNf1ddn8.jpg" group-title="Filmes | Lançamentos",A Ladra Solitária (2026)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/308867.mp4
+#EXTINF:-1 tvg-name="IT: Bem Vindos a Derry - Uma Historia de Derry (2026)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLTXBb25xVaQzk3haUVnBIhMEbLrkcjqkFD1W5vT1bvVU.jpg" group-title="Filmes | Lançamentos",IT: Bem Vindos a Derry - Uma Historia de Derry (2026)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/308866.mp4
+#EXTINF:-1 tvg-name="Escape Room (2017)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL2SIIuoG5lFDWGcx_XnF6svHF7Ryo1FXwdIhDxY_AehU.jpg" group-title="Filmes | Suspense",Escape Room (2017)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/308865.mp4
+#EXTINF:-1 tvg-name="Marsupilami: Confusão a Bordo (2026)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLEPgtT8CuQIJjcXq6DnuHAIPof_tUzLTsWs6olky4qYE.jpg" group-title="Filmes | Lançamentos",Marsupilami: Confusão a Bordo (2026)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/308864.mp4
+#EXTINF:-1 tvg-name="O Shaolin do Sertão 2 (2026)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL2XMplIVr45Go_vrgtHaZP7JvUs67ivmrRgOtq1prrns.jpg" group-title="Filmes | Lançamentos",O Shaolin do Sertão 2 (2026)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/308863.mp4
+#EXTINF:-1 tvg-name="Ouro e Cobiça (2016)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL5pcPi6_zGSGpE7gkGZMxzNgjLd-3EWICuUFfH5YaCig.jpg" group-title="Filmes | Drama",Ouro e Cobiça (2016)
+http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/308861.mp4
 #EXTINF:-1 tvg-name="Apocalipse Z: Novo Mundo (2026)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLKps31yrQJvgF1qG4mb4_m4XB02NiB93NJIxmNjp9_tY.jpg" group-title="Filmes | Lançamentos",Apocalipse Z: Novo Mundo (2026)
 http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/308760.mp4
 #EXTINF:-1 tvg-name="Onde Estiver Estarei: Uma Paixão Rubro-negra (2026)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLTpmGsHWKrww_o64sBt5RoftcYomFET-BzbvS2qQC8As.jpg" group-title="Filmes | Lançamentos",Onde Estiver Estarei: Uma Paixão Rubro-negra (2026)
@@ -2551,8 +2575,6 @@ http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/308741.mp4
 http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/308740.mp4
 #EXTINF:-1 tvg-name="Lorne (2026)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLExh3SbbJjHvxHDC4FXlDwRZYl2JyKTIL0-03pGXJayQ.jpg" group-title="Filmes | Lançamentos",Lorne (2026)
 http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/308739.mp4
-#EXTINF:-1 tvg-name="Tenzing (2026)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLKUXsncO88rqx0kJH1g-pjuvJ5SNqMgYyZMyfuWmmkcg.jpg" group-title="Filmes | Lançamentos",Tenzing (2026)
-http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/308738.mp4
 #EXTINF:-1 tvg-name="Procurando Emily (2026)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLvzF_kJGdA0-iw30Ze2tUIDxM27glKobJYIKY-1Hv-nE.jpg" group-title="Filmes | Lançamentos",Procurando Emily (2026)
 http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/308737.mp4
 #EXTINF:-1 tvg-name="Noite Brutal (2026)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLlXPo1TW7DvNBGCwW2qAJdY60CnK7tCfqNvNSEtehDrc.jpg" group-title="Filmes | Lançamentos",Noite Brutal (2026)
@@ -20529,8 +20551,6 @@ http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/65354.mp4
 http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/65346.mp4
 #EXTINF:-1 tvg-name="O Legionário (2020)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLhTvjY5fQttyd3VQufzGB6zlSHscDAZ5hYLWhDlIv-XQ.jpg" group-title="Filmes | Aventura",O Legionário (2020)
 http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/65345.mp4
-#EXTINF:-1 tvg-name="O Diabo Veste Prada (2006)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLn_WlRHtI16jSYV1QzhsiX9BSLsNju6-roMisR1muL28.jpg" group-title="Filmes | Drama",O Diabo Veste Prada (2006)
-http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/65342.mp4
 #EXTINF:-1 tvg-name="O Cobrador de Impostos (2020)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLNPbAk_iZK5V50tdlILGo7WRlQooKK48jIB-qWsdGoW0.jpg" group-title="Filmes | Ação",O Cobrador de Impostos (2020)
 http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/65340.mp4
 #EXTINF:-1 tvg-name="Não Vamos Pagar Nada (2020)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLeOZwY_xagCePtf_9Hxxik73TlcpMeGTY4qZz1fYZIw0.jpg" group-title="Filmes | Comédia",Não Vamos Pagar Nada (2020)
@@ -23795,8 +23815,6 @@ http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/3090.mp4
 http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/3089.mp4
 #EXTINF:-1 tvg-name="Estrangeiro (2018)" tvg-logo="http://newlive7.top:80/images/8304ed94b1ccf2c0c26c42cd1f3b0155.jpg" group-title="Filmes | Suspense",Estrangeiro (2018)
 http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/3085.mp4
-#EXTINF:-1 tvg-name="Escape Room (2019)" tvg-logo="http://newlive7.top:80/images/e5b0fdb13688edc34433f5217dd8a606.jpg" group-title="Filmes | Suspense",Escape Room (2019)
-http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/3084.mkv
 #EXTINF:-1 tvg-name="Desejo Fatal (2018)" tvg-logo="http://sem.newlive.cfd:80/images/LG6n00jWysVfaWcZaVTRTCu-W471JEKOnjDDuUPjK1MaQEUAJNv45jTaoV1IJZeap559ZnDQ0H0nmYo9qo7W2xqZbTXRuYcZcr-6YH5lH4M.jpg" group-title="Filmes | Suspense",Desejo Fatal (2018)
 http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/3079.mp4
 #EXTINF:-1 tvg-name="Comemoração Sangrenta (2016)" tvg-logo="http://newlive7.top:80/images/b830641a95f9b2855ab61798363bbe96.jpg" group-title="Filmes | Suspense",Comemoração Sangrenta (2016)
@@ -26039,7 +26057,7 @@ http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/790.mp4
 http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/789.mp4
 #EXTINF:-1 tvg-name="Exorcismos e Demônios (2017)" tvg-logo="http://newlive7.top:80/images/127324513fc7a1daada93e0e6e139fe1.jpg" group-title="Filmes | Terror",Exorcismos e Demônios (2017)
 http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/788.mp4
-#EXTINF:-1 tvg-name="No Escape Room (2018)" tvg-logo="http://newlive7.top:80/images/6ec02b138a92267a2e1b06c688132da9.jpg" group-title="Filmes | Terror",No Escape Room (2018)
+#EXTINF:-1 tvg-name="Escape Room (2019) (2019)" tvg-logo="http://sem.newlive.cfd:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLb24om733ucLLr0eH99UVVoV52lSwUyt5A6liJJK2t6w.jpg" group-title="Filmes | Terror",Escape Room (2019) (2019)
 http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/787.mp4
 #EXTINF:-1 tvg-name="El albergue (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Filmes | Terror",El albergue (2016)
 http://natvlive.biz:80/movie/splay358jngvod4320/8342iojn852d32@23/786.mp4
